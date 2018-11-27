@@ -1,0 +1,16 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: R packages
+  role: CRAN - Author And Maintainer
+  duration: Nov 2015 &mdash; Present
+  # url: "#"
+  description: <ul class="resume-item-list"><li>Developed and published 'ROpenWeatherMap', 'RYandexTranslate', 'rechonest' R packages on CRAN which have over 5k+ downloads each</li><li>Also developed 'rword2vec' and 'RCloudConvert' R packages</li><li>Notable mention for 'RCloudConvert' as a third party wrapper on CloudConvert website</li></ul>
+
+# Springfield Community Outreach Group
+- project: Search Engine
+  # role: Co-Founder & Organizer
+  duration: Mar 2015
+  # url: "#"
+  description: <ul class="resume-item-list"><li>Implemented a search engine using AVL trees and GTK library in C++ that searches for a word in given text files and returns the number of occurrences</li></ul>

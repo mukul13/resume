@@ -1,0 +1,22 @@
+# Jobs
+
+- company: Map My Customers
+  position: Software Engineer
+  duration: Dec, 2017 &mdash; Present
+  summary: Working on various roles in the company with respect to tech stack. <br /><b>Backend</b><ul class="resume-item-list"><li>Working on migrating and changing the underlying architecture of the platform from MongoDB to PostgreSQL</li><li>Developing restful APIs to speed-up and scale CRUD operations</li><li>Developed and deployed a user referral page structure where user can refer people through emails and can get rewards</li></ul><b>Frontend</b><ul class="resume-item-list"><li>Maintenance of the current web app, regular bug fixing using angularJS framework in frontend and parse in backend</li><li>Working on structural and coding changes for new version of web app with revamped UI/UX and new set of features using angularJS framework</li><li>Unit testing using karma/jasmine framework for web app</li></ul><b>Chrome extension</b><li>UI and backend changes, maintenance of the chrome extension, regular bug fixing</li><li>Implemented strategy to map leads found from google maps to MMC add form using API</li></ul>
+
+- company: Samsung R&D Institute Bangalore
+  position: Software Engineer
+  duration: Jun, 2017 &mdash; Nov, 2017
+  summary: <ul class="resume-item-list"><li>Worked on improving the performance and accuracy of rule-based and ML models for Bixby's NLP architecture</li></ul>
+
+- company: Map My Customers
+  position: Remote Internship
+  duration: Oct, 2016  &mdash; April, 2017
+  summary: <ul class="resume-item-list"><li>Built a tag-recommendation strategy to suggest tags based on user’s sales profile using Map My Customers' data </li><li>Developed an intermediate layer to share data back and forth between Map My Customers and other CRMs (Zoho and HubSpot)</li></ul>
+
+- company: Samsung R&D Institute Bangalore
+  position: Student Trainee
+  duration: Oct, 2016  &mdash; April, 2017
+  summary: <ul class="resume-item-list"><li> Implemented various ML models and benchmarked them against the existing model for Samsung's app prediction tool</li></ul>
+ 
