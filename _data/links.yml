@@ -1,5 +1,7 @@
 # links
-- url: "#"
-  description: Springfield Jazz Enthusiasts
-- url: "#"
-  description: Springfield Young Professionals
+- url: "https://medium.com/better-programming/dockerizing-multiple-services-inside-a-single-container-96cdff286cef"
+  description: Creating multi-container Docker Applications using Docker Compose
+- url: "https://medium.com/@mukul.chaware13/sql-query-optimization-for-large-in-queries-74f58dc524b6"
+  description: SQL Query Optimization for Large IN Queries
+- url: "https://medium.com/map-my-customers-engineering-design/code-refactoring-practice-while-handling-async-requests-903b3fbff272"
+  description: Simple Refactoring Tips While Handling Async Requests
