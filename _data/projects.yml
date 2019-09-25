@@ -2,15 +2,27 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
+- project: Seekrev
+  role: Developer
+  duration: Oct 2018 &mdash; Present
+  url: www.seekrev.com
+  description: <ul class="resume-item-list"><li>Worked on creating a Video Reviewing and Collaboration tool 'Seekrev' which supports features like time-coded comments with threaded replies for concise discussion and video versioning.</li><li>Tech Stack - Ruby on Rails (backend), React (Frontend) and AWS (for server management, storage and transcoding)</li></ul>
+
 - project: R packages
   role: CRAN - Author And Maintainer
   duration: Nov 2015 &mdash; Present
-  # url: "#"
+  url: "https://github.com/mukul13/"
   description: <ul class="resume-item-list"><li>Developed and published 'ROpenWeatherMap', 'RYandexTranslate', 'rechonest' R packages on CRAN which have over 5k+ downloads each</li><li>Also developed 'rword2vec' and 'RCloudConvert' R packages</li><li>Notable mention for 'RCloudConvert' as a third party wrapper on CloudConvert website</li></ul>
+
+- project: Real-time Pick-up Line search 
+  role: Developer
+  duration: Jun 2019
+  url: https://github.com/mukul13/Pickup-line-search
+  description: <ul class="resume-item-list"><li>A real time searchable pickup line search using react, express and elasticsearch</li></ul>
 
 # Springfield Community Outreach Group
 - project: Search Engine
-  # role: Co-Founder & Organizer
+  role: Developer
   duration: Mar 2015
   # url: "#"
   description: <ul class="resume-item-list"><li>Implemented a search engine using AVL trees and GTK library in C++ that searches for a word in given text files and returns the number of occurrences</li></ul>
