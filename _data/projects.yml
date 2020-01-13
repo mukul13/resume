@@ -2,8 +2,14 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
+- project: Dash It Up
+  role: Founder
+  duration: Oct 2018 &mdash; Present
+  url: https://www.dashitup.me/
+  description: <ul class="resume-item-list"><li>An online platform to bridge the gap between developers and other team members.</li><li>Developers can create customizable dashboards as internal tools without any setup and maintainance overhead.</li><li>Other team members can access these dashboards without being concerned with underlying technical details.</li></ul>
+
 - project: Seekrev
-  role: Developer
+  role: Co-Founder
   duration: Oct 2018 &mdash; Present
   url: www.seekrev.com
   description: <ul class="resume-item-list"><li>Worked on creating a Video Reviewing and Collaboration tool 'Seekrev' which supports features like time-coded comments with threaded replies for concise discussion and video versioning.</li><li>Tech Stack - Ruby on Rails (backend), React (Frontend) and AWS (for server management, storage and transcoding)</li></ul>
