@@ -2,9 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
+- project: Changelogg.io
+  role: Founder
+  duration: Mar 2020 &mdash; Present
+  url: https://www.changelogg.io
+  description: <ul class="resume-item-list"><li>Automatic, effortless, no-code changelog for every github release.</li><li>Debug production incidents effectively, keep everyone connected with new changes and gain insights from it</li></ul>
+
 - project: Dash It Up
   role: Founder
-  duration: Oct 2018 &mdash; Present
+  duration: Oct 2019 &mdash; Present
   url: https://www.dashitup.me/
   description: <ul class="resume-item-list"><li>An online platform to bridge the gap between developers and other team members.</li><li>Developers can create customizable dashboards as internal tools without any setup and maintainance overhead.</li><li>Other team members can access these dashboards without being concerned with underlying technical details.</li></ul>
 
